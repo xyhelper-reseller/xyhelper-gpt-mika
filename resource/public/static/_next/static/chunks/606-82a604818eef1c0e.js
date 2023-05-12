@@ -3572,7 +3572,7 @@
                       // onClick: P,
                       // 点击时,打开新的页面
                       onClick: function () {
-                        window.open("https://xyhelper.cn");
+                        window.open("https://mika.my.qingzhan.com/");
                       },
                       children: (0, p.jsx)(X.Z, (0, f._)({}, n$.deleteAccount)),
                     }),
@@ -4214,7 +4214,7 @@
           children: [
             (0, p.jsxs)(tn, {
               as: "a",
-              href: "https://xyhelper.cn",
+              href: "https://mika.my.qingzhan.com/",
               target: "_blank",
               onClick: function () {
                 i(k.s6.clickFaqLink);
@@ -12267,7 +12267,7 @@
         return (0, p.jsxs)(oF, {
           children: [
             (0, p.jsxs)(oA, {
-              children: ["ChatGPT", t && (0, p.jsx)(ie, { children: "Plus" })],
+              children: ["AI影视CHAT圈", t && (0, p.jsx)(ie, { children: "Plus" })],
             }),
             (0, p.jsxs)(oE, {
               children: [
@@ -12463,7 +12463,7 @@
                   }),
                   (0, p.jsxs)(o2, {
                     children: [
-                      "ChatGPT",
+                      "AI影视CHAT圈",
                       Z && (0, p.jsx)(ie, { children: "Plus" }),
                     ],
                   }),
